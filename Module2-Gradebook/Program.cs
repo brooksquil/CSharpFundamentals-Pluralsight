@@ -10,10 +10,15 @@ namespace Module2_Gradebook
             Gradebook book = new Gradebook();
             book.AddGrade(91);
             book.AddGrade(89);
-            
-            
-            Gradebook book2 = book;
-            book2.AddGrade(75);
+            book.AddGrade(72);
+
+            //separates blueprint class from computational class
+            GradeStatistics stats = book.ComputeStatistics();
+
+
+            Console.WriteLine(stats.AverageGrade);
+            Console.WriteLine(stats.HighestGrade);
+            Console.WriteLine(stats.LowestGrade);
             
         }
     }
