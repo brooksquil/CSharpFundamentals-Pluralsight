@@ -1,0 +1,11 @@
+/Users/brooke.wittenberg/RiderProjects/CSharpFundamentals/CSharpFundamentals/bin/Debug/netcoreapp2.1/CSharpFundamentals.deps.json
+/Users/brooke.wittenberg/RiderProjects/CSharpFundamentals/CSharpFundamentals/bin/Debug/netcoreapp2.1/CSharpFundamentals.runtimeconfig.json
+/Users/brooke.wittenberg/RiderProjects/CSharpFundamentals/CSharpFundamentals/bin/Debug/netcoreapp2.1/CSharpFundamentals.runtimeconfig.dev.json
+/Users/brooke.wittenberg/RiderProjects/CSharpFundamentals/CSharpFundamentals/bin/Debug/netcoreapp2.1/CSharpFundamentals.dll
+/Users/brooke.wittenberg/RiderProjects/CSharpFundamentals/CSharpFundamentals/bin/Debug/netcoreapp2.1/CSharpFundamentals.pdb
+/Users/brooke.wittenberg/RiderProjects/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp2.1/CSharpFundamentals.csprojAssemblyReference.cache
+/Users/brooke.wittenberg/RiderProjects/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp2.1/CSharpFundamentals.csproj.CoreCompileInputs.cache
+/Users/brooke.wittenberg/RiderProjects/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp2.1/CSharpFundamentals.AssemblyInfoInputs.cache
+/Users/brooke.wittenberg/RiderProjects/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp2.1/CSharpFundamentals.AssemblyInfo.cs
+/Users/brooke.wittenberg/RiderProjects/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp2.1/CSharpFundamentals.dll
+/Users/brooke.wittenberg/RiderProjects/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp2.1/CSharpFundamentals.pdb
