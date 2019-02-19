@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpFundamentals", "CSharpFundamentals\CSharpFundamentals.csproj", "{E9C4A345-1364-448C-A927-0A34506AFF5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module2-Gradebook", "Module2-Gradebook\Module2-Gradebook.csproj", "{C7BED9A9-39E6-4B7C-9261-4F76A562F315}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{E9C4A345-1364-448C-A927-0A34506AFF5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9C4A345-1364-448C-A927-0A34506AFF5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9C4A345-1364-448C-A927-0A34506AFF5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7BED9A9-39E6-4B7C-9261-4F76A562F315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7BED9A9-39E6-4B7C-9261-4F76A562F315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7BED9A9-39E6-4B7C-9261-4F76A562F315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7BED9A9-39E6-4B7C-9261-4F76A562F315}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

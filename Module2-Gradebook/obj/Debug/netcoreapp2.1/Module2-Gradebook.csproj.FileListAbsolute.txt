@@ -1,0 +1,11 @@
+/Users/brooke.wittenberg/RiderProjects/CSharpFundamentals/Module2-Gradebook/bin/Debug/netcoreapp2.1/Module2-Gradebook.deps.json
+/Users/brooke.wittenberg/RiderProjects/CSharpFundamentals/Module2-Gradebook/bin/Debug/netcoreapp2.1/Module2-Gradebook.runtimeconfig.json
+/Users/brooke.wittenberg/RiderProjects/CSharpFundamentals/Module2-Gradebook/bin/Debug/netcoreapp2.1/Module2-Gradebook.runtimeconfig.dev.json
+/Users/brooke.wittenberg/RiderProjects/CSharpFundamentals/Module2-Gradebook/bin/Debug/netcoreapp2.1/Module2-Gradebook.dll
+/Users/brooke.wittenberg/RiderProjects/CSharpFundamentals/Module2-Gradebook/bin/Debug/netcoreapp2.1/Module2-Gradebook.pdb
+/Users/brooke.wittenberg/RiderProjects/CSharpFundamentals/Module2-Gradebook/obj/Debug/netcoreapp2.1/Module2-Gradebook.csprojAssemblyReference.cache
+/Users/brooke.wittenberg/RiderProjects/CSharpFundamentals/Module2-Gradebook/obj/Debug/netcoreapp2.1/Module2-Gradebook.csproj.CoreCompileInputs.cache
+/Users/brooke.wittenberg/RiderProjects/CSharpFundamentals/Module2-Gradebook/obj/Debug/netcoreapp2.1/Module2-Gradebook.AssemblyInfoInputs.cache
+/Users/brooke.wittenberg/RiderProjects/CSharpFundamentals/Module2-Gradebook/obj/Debug/netcoreapp2.1/Module2-Gradebook.AssemblyInfo.cs
+/Users/brooke.wittenberg/RiderProjects/CSharpFundamentals/Module2-Gradebook/obj/Debug/netcoreapp2.1/Module2-Gradebook.dll
+/Users/brooke.wittenberg/RiderProjects/CSharpFundamentals/Module2-Gradebook/obj/Debug/netcoreapp2.1/Module2-Gradebook.pdb
